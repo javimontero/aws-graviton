@@ -2,8 +2,9 @@
 
 AWS instances based on [Graviton2 processors](https://aws.amazon.com/ec2/graviton/) outperform the Xeon based at a fraction of the cost. These are ARM processors so the software stack has to be built for this architecture. 
 
-![AWS c6gd.16xlarge Graviton2 instance with 64 vcore](media/c6g-64core.png)
-**AWS c6gd.16xlarge Graviton2 instance with 64 vcore**
+| ![AWS c6gd.16xlarge Graviton2 instance with 64 vcore](media/c6g-64core.png) |
+|:--:|
+| *AWS c6gd.16xlarge Graviton2 instance with 64 vcore* |
 
 
 ![AWS c5.24xlarge Xeon instance with 96 vcore](media/c5-96core.png)
