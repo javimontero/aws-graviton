@@ -7,8 +7,9 @@ AWS instances based on [Graviton2 processors](https://aws.amazon.com/ec2/gravito
 | *AWS c6gd.16xlarge Graviton2 instance with 64 vcore* |
 
 
-![AWS c5.24xlarge Xeon instance with 96 vcore](media/c5-96core.png)
-**AWS c5.24xlarge Xeon instance with 96 vcore**
+| ![AWS c5.24xlarge Xeon instance with 96 vcore](media/c5-96core.png) |
+|:--:|
+| **AWS c5.24xlarge Xeon instance with 96 vcore** |
 
 Here there is a collection of wheels already build for Ubuntu 20.04 arm64:
 
