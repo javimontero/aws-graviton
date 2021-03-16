@@ -16,7 +16,7 @@ Here there is a collection of wheels already build for Ubuntu 20.04 arm64:
 ## Graviton2 vs. Xeon performance
 Benchmark of 2700 simulations of a backtest trading strategy.
 
-**AWS instance** | **vCore** | **Cost $/hour** | **Wall time** | **Arch**
+AWS instance | vCore | Cost $/hour | Wall time | Arch
 ------------ | ------------- | -- |--  | --
 c6gd.16xlarge | 64 | 2.4 | 12m53s  | aarch64 (ARM)
 c5.24xlarge  | 96 | 4.08 | 13m17s | x86
